@@ -10,7 +10,7 @@ cache:
 services:
   - mysql
 before_install:
-  - mysql -e 'CREATE DATABASE IF NOT EXISTS passport_demo;'
+  - mysql -e 'CREATE DATABASE IF NOT EXISTS lpflyg1loliymdah'
 install:
 - npm install
 script:
